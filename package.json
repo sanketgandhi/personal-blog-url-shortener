@@ -1,0 +1,23 @@
+{
+  "name": "personal-blog-url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketgandhi/personal-blog-url-shortener.git"
+  },
+  "keywords": [],
+  "author": "Sanket Gandhi <sanketgandhi876@gmail.com> (https://sanketgandhi.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanketgandhi/personal-blog-url-shortener/issues"
+  },
+  "homepage": "https://github.com/sanketgandhi/personal-blog-url-shortener#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
