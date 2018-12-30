@@ -1,6 +1,7 @@
 {
   "name": "personal-blog-url-shortener",
   "version": "1.0.0",
+  "baseUrl": "https://links.sanketgandhi.com",
   "description": "",
   "main": "index.js",
   "scripts": {
